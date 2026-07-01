@@ -5,6 +5,7 @@
 // File nay chi lam nhiem vu: khoi tao du lieu, hien thi Menu,
 // nhan lua chon cua nguoi dung va goi ham chuc nang tuong ung
 // (cac ham chuc nang duoc cai dat ben file cd.cpp).
+                                //Thầy gợi ý tạo audio cho sách, hình ảnh sách và theo cảm hứng tương tự tiktok////
 // ============================================================
 
 #include "kb.h"
